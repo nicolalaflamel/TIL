@@ -1,0 +1,15 @@
+| 分類               | 採用技術名                                | バージョン         |
+|--------------------|---------------------------------------------|--------------------|
+| 言語               | Java                                        | 21                 |
+| フレームワーク     | Spring Boot                                 | 3.4.4              |
+| ビルドツール       | Maven                                       | -                  |
+| Web開発            | spring-boot-starter-web                     | 3.4.4              |
+| バリデーション     | spring-boot-starter-validation              | 3.4.4              |
+| セキュリティ       | spring-boot-starter-security                | 3.4.4              |
+| O/Rマッパー        | mybatis-spring-boot-starter                 | 3.0.4              |
+| データベース       | PostgreSQL（JDBC Driver）                   | -（Maven依存）     |
+| アノテーション処理 | Lombok                                      | -                  |
+| 単体テスト         | spring-boot-starter-test                    | 3.4.4              |
+| テスト（MyBatis）  | mybatis-spring-boot-starter-test            | 3.0.4              |
+| テスト（Security） | spring-security-test                        | -                  |
+| AI連携             | spring-ai-bom（VertexAI対応）              | 1.0.0-M6           |
